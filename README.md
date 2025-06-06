@@ -1,13 +1,14 @@
+<sup>June 6, 2025</sup>
 # Celine Korea Sales Forecast              
-<sup>6 June, 2025</sup>
 
 by Eunkyung Kim
 
 <sup>+82) 10 2575 8279 | LanaKim88@gmail.com | www.linkedin.com/in/lana-eunkyung-kim</sup>
 
-## Overview
 
->Recent sales data for Celine Korea indicate a plateau, with revenue stabilizing from 307 bil KRW in 2023 to 303 bil KRW  in 2024. This trend suggests that the current business strategy may be approaching market saturation. Utilizing a Long Short-Term Memory (LSTM) deep learning model—renowned for its ability to capture complex sequential patterns in time series data—the forecast projects modest growth of 3–5% CAGR over the next four years. However, this outlook is tempered by macroeconomic headwinds, including market polarization and currency volatility, which present notable downside risks.
+
+> ## Overview
+> Recent sales data for Celine Korea indicate a plateau, with revenue stabilizing from 307 bil KRW in 2023 to 303 bil KRW  in 2024. This trend suggests that the current business strategy may be approaching market saturation. Utilizing a Long Short-Term Memory (LSTM) deep learning model—renowned for its ability to capture complex sequential patterns in time series data—the forecast projects modest growth of 3–5% CAGR over the next four years. However, this outlook is tempered by macroeconomic headwinds, including market polarization and currency volatility, which present notable downside risks.
 
 ![image](https://github.com/user-attachments/assets/5ecb848b-9a64-4111-9710-9d9f63c77fae)
 
@@ -15,7 +16,6 @@ by Eunkyung Kim
 **_► About the Forecasting Model: Long Short-Term Memory (LSTM)_**
 
 _The LSTM model, an advanced form of Recurrent Neural Network, is specifically designed to recognize long-term dependencies in sequential data. This makes it highly suitable for forecasting sales trends in dynamic markets such as luxury retail. The model was trained on historical sales and operating profit data, supplemented by external market and consumer insights._
-
 _Limitations:
 While the LSTM provides a robust framework for sales prediction, its accuracy could be significantly enhanced with the integration of additional internal variables—such as marketing spend, event calendars, frontline staffing, and inventory levels. Access to these datasets would allow for a more granular and actionable forecast._
 
