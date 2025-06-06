@@ -1,5 +1,6 @@
-# Celine Korea Sales Forecast
-<sub>6 June, 2025</sub>
+# Celine Korea Sales Forecast              
+<sup>6 June, 2025</sup>
+
 by Eunkyung Kim
 
 <sup>+82) 10 2575 8279 | LanaKim88@gmail.com | www.linkedin.com/in/lana-eunkyung-kim</sup>
@@ -20,14 +21,14 @@ While the LSTM provides a robust framework for sales prediction, its accuracy co
 
 
 ### Macroeconomic Context
-* Economic Slowdown: South Korea’s GDP growth is projected at 1.8% for 2025, with consumer spending constrained by persistent high interest rates and inflation (2.3% YoY).
+* **Economic Slowdown**: South Korea’s GDP growth is projected at 1.8% for 2025, with consumer spending constrained by persistent high interest rates and inflation (2.3% YoY).
 
-* Currency Pressure: The Korean won’s depreciation (-8% vs USD in 2024) is increasing import costs, thereby compressing margins for imported luxury goods.
+* **Currency Pressure**: The Korean won’s depreciation (-8% vs USD in 2024) is increasing import costs, thereby compressing margins for imported luxury goods.
 
 ### Korean Luxury Market Dynamics
-* Market Polarization: Luxury spending is increasingly concentrated among VIP clients, who now account for 45–51% of department store revenue. Mid-tier brands are experiencing double-digit declines as consumers gravitate toward ultra-luxury houses (Hermès, Chanel, Louis Vuitton) or pivot to premium K-fashion alternatives. Meanwhile, watches and jewelry are outperforming, buoyed by rising gold prices.
+* **Market Polarization**: Luxury spending is increasingly concentrated among VIP clients, who now account for 45–51% of department store revenue. Mid-tier brands are experiencing double-digit declines as consumers gravitate toward ultra-luxury houses (Hermès, Chanel, Louis Vuitton) or pivot to premium K-fashion alternatives. Meanwhile, watches and jewelry are outperforming, buoyed by rising gold prices.
 
-* Gen Z Consumer Insights: Social media, particularly TikTok, is driving trend formation. The hashtag #CelineTriomphe has garnered over 12 million views, with sentiment split—45% positive, but 30% labeling the brand as "overpriced." The growing demand for "quiet luxury" and minimalist aesthetics presents a challenge for Celine’s traditionally logo-driven designs.
+* **Gen Z Consumer Insights**: Social media, particularly TikTok, is driving trend formation. The hashtag #CelineTriomphe has garnered over 12 million views, with sentiment split—45% positive, but 30% labeling the brand as "overpriced." The growing demand for "quiet luxury" and minimalist aesthetics presents a challenge for Celine’s traditionally logo-driven designs.
 
 
 ## Strategic Recommendations
