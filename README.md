@@ -1,5 +1,5 @@
 # Celine Korea Sales Forecast
-
+<sub>6 June, 2025</sub>
 by Eunkyung Kim
 
 <sup>+82) 10 2575 8279 | LanaKim88@gmail.com | www.linkedin.com/in/lana-eunkyung-kim</sup>
